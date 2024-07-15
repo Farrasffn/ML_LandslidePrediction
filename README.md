@@ -1,4 +1,4 @@
-# ABout
+# About
 Landslide prediction with environmental data integration and machine learning pipeline.
 
 # Source
